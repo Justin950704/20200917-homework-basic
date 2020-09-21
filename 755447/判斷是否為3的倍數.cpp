@@ -12,3 +12,4 @@ int main() {
         cout << "NUM不是3的倍數";
     }
 }
+
